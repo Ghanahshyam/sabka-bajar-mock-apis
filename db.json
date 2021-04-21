@@ -1,13 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "banners" : [
   {
     "bannerImageUrl": "/static/images/offers/offer1.jpg",
@@ -44,5 +35,8 @@
     "order": 5,
     "id": "5b6c386b6cb7d770b7010cd0"
   }
-]
+],
+  "profile": {
+    "name": "typicode"
+  }
 }
